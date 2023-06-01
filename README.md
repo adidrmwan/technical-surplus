@@ -49,9 +49,9 @@ Add IntelliJ Cucumber for Java plugin:
 * Find the reporting file on `build/customreport/overview-features.html`
 * Open the reporting file in browser
 
-## Report
-* Android
-* API
+## Sample Result
+* Android : 
+* API : 
 
 ## Documentations
 * https://appium.io/docs/en/about-appium/getting-started/?lang=en
