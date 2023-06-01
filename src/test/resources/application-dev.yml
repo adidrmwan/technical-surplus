@@ -1,0 +1,9 @@
+spring:
+  profiles: dev
+
+config:
+  android:
+    appPackage: "com.loginmodule.learning"
+    appActivity: "com.loginmodule.learning.activities.LoginActivity"
+    appPath: app/sample-login.apk
+    name: "Login Register"
