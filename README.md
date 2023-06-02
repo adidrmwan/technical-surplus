@@ -50,8 +50,8 @@ Add IntelliJ Cucumber for Java plugin:
 * Open the reporting file in browser
 
 ## Sample Result
-* Android : 
-* API : 
+
+https://github.com/adidrmwan/technical-surplus/assets/22820270/362e3080-0a51-488f-b2de-ce833f20b707
 
 ## Documentations
 * https://appium.io/docs/en/about-appium/getting-started/?lang=en
